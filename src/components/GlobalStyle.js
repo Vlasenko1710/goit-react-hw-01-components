@@ -1,4 +1,4 @@
-import { createGlobalStyle } from "styled-components";
+import { createGlobalStyle } from 'styled-components';
 import 'modern-normalize';
 export const GlobalStyle = createGlobalStyle`
   body {
@@ -21,4 +21,4 @@ ul, ol{
     padding: 0;
     list-style: none;
 }
-`
+`;
